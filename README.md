@@ -2,9 +2,9 @@
 ### This is Ashish, a techie in and out.
 
 ### I have technical experience working with companies like:
-* JP Morgan Chase and Co.: A US based financial services firm.
-* Zomentum: A startup providing MSPs a platform to build and sustain revenue.
-* PayPal: A fintech company providing online payments services, along with other similar services.
+* **JP Morgan Chase and Co.**: A US based financial services firm.
+* **Zomentum**: A startup providing MSPs a platform to build and sustain revenue.
+* **PayPal**: A fintech company providing online payments services, along with other similar services.
 
 ### I have earned both an undergraduate and a master's degree in Computer Science 
 
